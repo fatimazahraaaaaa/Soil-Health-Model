@@ -1,4 +1,4 @@
-# Explainable Long-Term Soil Health Forecasting
+# Explainable Long-Term Soil Health 
 
 Machine-learning pipeline built on the LUCAS 2018 topsoil survey: it builds a Sustainable Health Index (SHI)
 for each sample point, predicts it with XGBoost and Random Forest, explains the models with SHAP,
@@ -43,6 +43,3 @@ Then open `notebooks/Soil_health_notebook.ipynb` (originally run on Google Colab
 
 ## Data
 LUCAS 2018 topsoil data, European Soil Data Centre (ESDAC). Not redistributed here, see `data/README.md`.
-
-## Author
-ZaHra, Master IPS, Faculté des Sciences, Université Mohammed V de Rabat.
