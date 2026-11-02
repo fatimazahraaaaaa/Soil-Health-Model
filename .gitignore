@@ -1,0 +1,13 @@
+# data & generated outputs
+data/*
+!data/README.md
+lucas_output/
+*.parquet
+LUCAS_master*.csv
+scenario_results.csv
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
